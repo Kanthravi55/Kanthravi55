@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Ravikanth
-- 👀 I’m interested in Datascience and Machine learning
-- 🌱 I’m currently learning Datascience
-- 💞️ I’m looking to collaborate with Experienced and aspiring Data scientists to exchange the knowledge and experiences. 
+👋 Hi there! I'm a passionate software developer with MS SQL, PostgreSQL, C#, and .NET Core expertise. I am strongly interested in automation and love creating efficient solutions that streamline processes and improve productivity.
+
+🔧 Currently, I’m exploring ways to leverage my skills in building robust applications and automating repetitive tasks. I'm always eager to learn new technologies and collaborate on exciting projects.
+
+🌱 Let’s connect and share ideas!
+
+Feel free to check out my repositories and contributions. I'm open to collaboration and always up for a tech chat!
 - 📫 Reach me @ kanthravi55@gmail.com
 
 <!---
